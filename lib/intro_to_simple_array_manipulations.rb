@@ -27,6 +27,6 @@ def using_concat(array, contents)
 end
 
 def using_insert(list_of_programming_languages, another_language)
-  array.insert(4)
+  array.insert([4], another_language)
 end
 
